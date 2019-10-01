@@ -30,7 +30,7 @@ public class Cat {
     }
 
     public void info() {
-        System.out.println(name + " " + (fed ? " сыт " : " голоден "));
+        System.out.println(name + " " + (fed ? " сытый " : " голодный "));
     }
 }
 
